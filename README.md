@@ -4,7 +4,7 @@ Author - Data Science | Business | Lifestyle&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &
 [![IMAGE_ALT](https://i.ytimg.com/vi/9Uh3r4Rqr2U/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAHABwAEG8AEB-AGACoAC0AWKAgwIARABGGUgZShlMA8=\u0026rs=AOn4CLB4i0ndAF9fW3okLDGBac48waZXNQ)](https://youtu.be/9Uh3r4Rqr2U)
   
 ## Current Course Project
-Currently working on collaboration with [Educative.io](https://www.educative.io/) to create Data Science courses.
+Currently working on a collaboration with [Educative.io](https://www.educative.io/) to create Data Science courses.
 
 ## Courses Published
 [Data Science Approach from Scratch](https://www.udemy.com/course/data-science-approach-from-scratch/)\
