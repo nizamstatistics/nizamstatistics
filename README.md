@@ -28,7 +28,7 @@ MEDCERON – Statistics Questions Correction\
 Evelyn Learning - Statistics Textbook Solutions\
 Tutors Help Desk - Statistics Assignments
 
-## Data Science Non-Academic Freelance Projects (June 2016 - Mar 2017)
+## Data Science Non-Academic Freelance Projects (June 2016 - Current)
 Solved Data Selling Problem of a Mobile App - ELI Research (USA)\
 Helped a Researcher in Formula Creation to Estimate the Population Size
 
